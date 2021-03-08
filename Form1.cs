@@ -98,9 +98,9 @@ namespace TxtFile
             {
                 using (fs = File.Create(inputfile))
                 {
+                    MessageBox.Show("File has been Created");
 
                 }
-                MessageBox.Show("File has been Created");
             }
             else
                 MessageBox.Show("File already exists");

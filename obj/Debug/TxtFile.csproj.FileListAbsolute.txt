@@ -1,0 +1,20 @@
+C:\Users\Bashar\Desktop\ENG-1-2020-2021-ServerSide-master\03 01-03-2021 SQL DataReader\SQLDatareaderDemo\SQLDatareaderDemo\bin\Debug\SQLDatareaderDemo.exe.config
+C:\Users\Bashar\Desktop\ENG-1-2020-2021-ServerSide-master\03 01-03-2021 SQL DataReader\SQLDatareaderDemo\SQLDatareaderDemo\bin\Debug\SQLDatareaderDemo.exe
+C:\Users\Bashar\Desktop\ENG-1-2020-2021-ServerSide-master\03 01-03-2021 SQL DataReader\SQLDatareaderDemo\SQLDatareaderDemo\bin\Debug\SQLDatareaderDemo.pdb
+C:\Users\Bashar\Desktop\ENG-1-2020-2021-ServerSide-master\03 01-03-2021 SQL DataReader\SQLDatareaderDemo\SQLDatareaderDemo\obj\Debug\TxtFile.csprojAssemblyReference.cache
+C:\Users\Bashar\Desktop\ENG-1-2020-2021-ServerSide-master\03 01-03-2021 SQL DataReader\SQLDatareaderDemo\SQLDatareaderDemo\obj\Debug\TxtFile.Form1.resources
+C:\Users\Bashar\Desktop\ENG-1-2020-2021-ServerSide-master\03 01-03-2021 SQL DataReader\SQLDatareaderDemo\SQLDatareaderDemo\obj\Debug\SQLDatareaderDemo.Properties.Resources.resources
+C:\Users\Bashar\Desktop\ENG-1-2020-2021-ServerSide-master\03 01-03-2021 SQL DataReader\SQLDatareaderDemo\SQLDatareaderDemo\obj\Debug\TxtFile.csproj.GenerateResource.cache
+C:\Users\Bashar\Desktop\ENG-1-2020-2021-ServerSide-master\03 01-03-2021 SQL DataReader\SQLDatareaderDemo\SQLDatareaderDemo\obj\Debug\TxtFile.csproj.CoreCompileInputs.cache
+C:\Users\Bashar\Desktop\ENG-1-2020-2021-ServerSide-master\03 01-03-2021 SQL DataReader\SQLDatareaderDemo\SQLDatareaderDemo\obj\Debug\SQLDatareaderDemo.exe
+C:\Users\Bashar\Desktop\ENG-1-2020-2021-ServerSide-master\03 01-03-2021 SQL DataReader\SQLDatareaderDemo\SQLDatareaderDemo\obj\Debug\SQLDatareaderDemo.pdb
+C:\Users\Mohamad\Desktop\nir\TxtFile\bin\Debug\SQLDatareaderDemo.exe.config
+C:\Users\Mohamad\Desktop\nir\TxtFile\bin\Debug\SQLDatareaderDemo.exe
+C:\Users\Mohamad\Desktop\nir\TxtFile\bin\Debug\SQLDatareaderDemo.pdb
+C:\Users\Mohamad\Desktop\nir\TxtFile\obj\Debug\TxtFile.csprojAssemblyReference.cache
+C:\Users\Mohamad\Desktop\nir\TxtFile\obj\Debug\TxtFile.Form1.resources
+C:\Users\Mohamad\Desktop\nir\TxtFile\obj\Debug\SQLDatareaderDemo.Properties.Resources.resources
+C:\Users\Mohamad\Desktop\nir\TxtFile\obj\Debug\TxtFile.csproj.GenerateResource.cache
+C:\Users\Mohamad\Desktop\nir\TxtFile\obj\Debug\TxtFile.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\Desktop\nir\TxtFile\obj\Debug\SQLDatareaderDemo.exe
+C:\Users\Mohamad\Desktop\nir\TxtFile\obj\Debug\SQLDatareaderDemo.pdb
